@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macrawat58&label=Profile%20views&color=0e75b6&style=flat" alt="macrawat58" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MacRawat58](https://github.com/MacRawat58)
 
