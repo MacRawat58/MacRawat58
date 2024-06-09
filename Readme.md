@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend/Android/iOS developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macrawat58&label=Profile%20views&color=0e75b6&style=flat" alt="macrawat58" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 - 🔭 I’m currently working on [Meals App](https://github.com/MacRawat58/Mac_Meals)
 
 - 🌱 I’m currently learning **Flutter**
