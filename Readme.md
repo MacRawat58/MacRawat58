@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MacRawat58](https://github.com/MacRawat58)
 
-- 📫 How to reach me **macrawat158@gmail.com**
+- 📫 How to reach me **rawatmac158@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
