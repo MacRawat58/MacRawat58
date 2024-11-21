@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=macrawat58&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/macrawat58?tab=followers"><img src="https://img.shields.io/github/followers/macrawat58?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" /></a>
-  <a href="https://github.com/macrawat58?tab=repositories"><img src="https://img.shields.io/github/repo-size/macrawat58?style=flat-square&color=4CAF50" alt="Total Repository Size" /></a>
+<!--   <a href="https://github.com/macrawat58?tab=followers"><img src="https://img.shields.io/github/followers/macrawat58?label=Followers&style=flat-square&color=4CAF50" alt="GitHub Followers" /></a>
+  <a href="https://github.com/macrawat58?tab=repositories"><img src="https://img.shields.io/github/repo-size/macrawat58?style=flat-square&color=4CAF50" alt="Total Repository Size" /></a> -->
 </p>
 
 ---
@@ -58,9 +58,11 @@
 
 ---
 
-## 📈 My GitHub Performance:
+## 🐍 Game Time :
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=macrawat58&theme=rogue" alt="Activity Graph" />
+  <a href="https://github.com/macrawat58">
+    <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </a>
 </div>
 
 ---
